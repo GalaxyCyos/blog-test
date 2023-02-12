@@ -33,8 +33,7 @@
 ```javascript
 function f(){
   console.log('hello my friend')
-  console.log('good good 
-  study,day day up')
+  console.log('good good study,day day up')
 }
 
 f()
