@@ -32,7 +32,7 @@
 我写个代码和我的粉丝打招呼吧
 ```javascript
 function f(){
-  console.log('hello my friend')
+  console.log('hello my friend');
   console.log('good good study,day day up')
 }
 
