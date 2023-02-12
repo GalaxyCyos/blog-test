@@ -29,10 +29,12 @@
 选秀情况：2018年第1轮第3顺位被老鹰选中
 ![77帅照](77.jpg)
 
-我写个代码和你们打个招呼吧
+我写个代码和我的粉丝打招呼吧
 ```javascript
 function f(){
   console.log('hello my friend')
+  console.log('good good 
+  study,day day up')
 }
 
 f()
